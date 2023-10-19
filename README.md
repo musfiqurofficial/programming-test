@@ -2,6 +2,8 @@
 
 # Spaceflight
 
+Live site Link: https://space-flight-10.netlify.app/
+
 A brief description of your project.
 
 ## Table of Contents
@@ -9,7 +11,6 @@ A brief description of your project.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
